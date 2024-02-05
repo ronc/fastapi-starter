@@ -9,7 +9,7 @@ start = "src.fern_fastapi_starter.server:start"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-fastapi = "^0.79.0"
+fastapi = "^0.109.1"
 fastapi-utils = "^0.2.1"
 uvicorn = "^0.18.2"
 pydantic = "^1.9.2"
