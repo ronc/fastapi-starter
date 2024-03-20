@@ -17,7 +17,7 @@ pre-commit = "^2.20.0"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.971"
-black = "^22.6.0"
+black = "^24.3.0"
 flake8 = "^5.0.4"
 sqlalchemy2-stubs = "^0.0.2-alpha.26"
 
